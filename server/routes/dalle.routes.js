@@ -16,7 +16,7 @@ router.route("/").get((req, res) => {
 router.route("/").post(async (req, res) => {
   try {
     const { prompt } = req.body;
-    response = await openai.createImage({
+    const response = await openai.createImage({
       prompt,
       n: 1,
       size: "1024x1024",
@@ -27,7 +27,7 @@ router.route("/").post(async (req, res) => {
     res.status(200).json({ photo: image });
   } catch (error) {
     console.log(error);
-    res.status(500).json({ message: "Something went wrong" });
+    res.status(500).json({ message: "Something went wrong in dalle Routes" });
   }
 });
 
