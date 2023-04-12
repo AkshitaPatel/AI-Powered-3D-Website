@@ -13,3 +13,7 @@ Added custom color and file support.
 Generated and use images through DALLE AI
 Downloaded the resulting t-shirt model image
 Ensure responsiveness across all devices and improve site's performance
+
+<img width="1440" alt="Screen Shot 2023-04-12 at 12 31 30 AM" src="https://user-images.githubusercontent.com/23719983/231350544-1cc4f979-1368-44bf-8f69-569f5f2184aa.png">
+<img width="1440" alt="Screen Shot 2023-04-12 at 12 31 57 AM" src="https://user-images.githubusercontent.com/23719983/231350551-b211e351-4d37-4ed8-b636-c82f1a2a3120.png">
+<img width="1440" alt="Screen Shot 2023-04-12 at 12 32 15 AM" src="https://user-images.githubusercontent.com/23719983/231350555-115244ab-84ba-4c4b-880b-17e7ff4d4a28.png">
